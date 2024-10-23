@@ -1,3 +1,3 @@
-## Hi there 👋
+## 欢迎来到我们的组织，如果你认为它对你有用，请为它添加一个start，我们是不是会更新一些好玩的东西
 
-"TimeBreeze" is like a gentle breeze, softly brushing through our tense and busy lives. Imagine, in the fast-paced routine of daily life, if there was a "breeze of time" that could make our lives more relaxed and joyful, how wonderful that would be. It's not just about saving time, but about making the passage of time more beautiful and meaningful.
+![Metrics](/github-metrics.svg)
